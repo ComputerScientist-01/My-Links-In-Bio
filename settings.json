@@ -1,0 +1,54 @@
+{
+  "metaTitle": "Jayvardhan Rathi",
+  "metaDescription": "This is Jayvardhan Rathi's Link in bio",
+  "name": "Jayvardhan Rathi",
+  "theme": "glitch",
+  "avatarImage": "https://cdn.glitch.me/0b58b655-c995-4a0e-9745-5d81f6f53137%2Fpfp.jpeg?v=1638948018354",
+  "links": [
+    {
+      "url": "https://github.com/ComputerScientist-01",
+      "text": "💻 Projects I have worked on",
+      "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
+      "altText": "Glitch blue generative art"
+    },
+    {
+      "url": "https://www.crio.do/projects/python-weather-app/",
+      "text": "🌡️ Weather App in Python tutorial",
+      "img": ""
+    },
+    {
+      "url": "https://computerscientist-01.github.io/Jayvardhan-Portfolio/",
+      "text": "🌐 My personal website ",
+      "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+    },
+    {
+      "url": "https://medium.com/@ourmine",
+      "text": "📚 Other Technical blogs",
+      "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+    }
+  ],
+  "social": {
+    "glitch": "",
+    "spotify": "",
+    "substack": "",
+    "dev": "https://dev.to/computerscientist01",
+    "facebook": "https://www.facebook.com/rathijayvardhan/",
+    "github": "https://github.com/ComputerScientist-01",
+    "instagram": "https://www.instagram.com/jayvardhan.rathi/",
+    "linkedin": "https://www.linkedin.com/in/rathi406",
+    "medium": "https://medium.com/@ourmine",
+    "patreon": "",
+    "pinterest": "https://in.pinterest.com/rathi406",
+    "twitter": "https://twitter.com/ml__engineer",
+    "youtube": "https://www.youtube.com/channel/UCjFDgCGGoLDsCXKrwdTDZ-g",
+    "twitch": "",
+    "tiktok": "",
+    "podcast": "",
+    "soundcloud": "",
+    "bandcamp": "",
+    "mastodon": "",
+    "stackoverflow": "https://stackoverflow.com/users/12563653/jayvardhan-rathi",
+    "kofi": "",
+    "email": "rathi406@gmail.com"
+  }
+}
